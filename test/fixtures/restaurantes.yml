@@ -1,0 +1,12 @@
+# Read about fixtures at
+# http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  especialidade: MyText
+  endereco: MyString
+
+two:
+  name: MyString
+  especialidade: MyText
+  endereco: MyString
